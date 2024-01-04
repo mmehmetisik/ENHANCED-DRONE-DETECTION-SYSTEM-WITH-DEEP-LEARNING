@@ -12,10 +12,6 @@ The project integrates Faster R-CNN and YOLO v4 models to accurately detect dron
 - Integration with Python-based libraries like PyTorch and Detectron2 for efficient model training and deployment.
 - Customizable alert system for prompt response to security breaches.
 
-## Acknowledgments
-
-Special thanks to the project contributors and advisors who provided insights and support throughout the development process. Their expertise in deep learning and drone technology was invaluable.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
